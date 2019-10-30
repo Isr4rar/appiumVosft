@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6650f74e-6c8c-4e49-a0bf-cfcf57810fc2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationVsoft.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/ce/vsoft/appium/SendMensage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/ce/vsoft/appium/SendMensage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/ce/vsoft/web/CreationArticle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/ce/vsoft/web/CreationArticle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/ce/vsoft/appium/SendMensage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/ce/vsoft/appium/SendMensage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/ce/vsoft/web/CreationArticle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/ce/vsoft/web/CreationArticle.class" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RyeVH0blcudedex9694rgZfWbg" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.MainStart">
+    <configuration name="CreationArticle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.ce.vsoft.web.CreationArticle" />
+      <module name="AutomationVsoft" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.ce.vsoft.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainStart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.ce.vsoft.start.MainStart" />
+      <module name="AutomationVsoft" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.ce.vsoft.start.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SendMensage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.ce.vsoft.appium.SendMensage" />
+      <module name="AutomationVsoft" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.ce.vsoft.appium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainStart" />
+        <item itemvalue="Application.CreationArticle" />
+        <item itemvalue="Application.SendMensage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

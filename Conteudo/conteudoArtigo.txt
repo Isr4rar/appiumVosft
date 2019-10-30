@@ -1,0 +1,17 @@
+HTML para Imagem:
+
+<div>
+<img src="https://ap.imagensbrasil.org/images/imagens-lobos.jpg"/>
+</div>
+
+-------------------
+
+HTML para Vídeo:
+
+<div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sQ9GeH5ZG1g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+
+
